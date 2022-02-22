@@ -1,0 +1,177 @@
+ /*  CASE STUDIES CSS */
+
+ .case-study-bg {
+     background-color: white;
+     margin: 0;
+ }
+
+ .case-study-bg h1 {
+     font-family: playfair;
+     text-align: center;
+     color: purple;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     margin-bottom: -20vh;
+ }
+
+.case-study-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+ .case-study-content-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    border-bottom: 1px solid black;   
+ }
+
+ .case-study-content-h2 {
+    margin: 20vh 0 0 0;
+    padding: 0 30vw 0 30vw;
+    border-bottom: 1px solid black;
+ }
+
+ .case-study-content-h2-p {
+     font-family: playfair;
+     font-size: 20px;
+     padding: 5vh 20vw;
+
+ }
+
+ .quote {
+     font-family: playfair;
+     font-weight: bold;
+     font-style: italic;
+     font-size: 20px;
+ }
+
+
+
+ .case-study-section-header-1 {
+    margin: 20vh auto 5vh auto;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+ }
+
+ .case-study-section-body-1 {
+    padding: 0 20vw;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+
+
+.case-study-section-header-2 {
+    margin: 20vh auto 5vh auto;
+    font-size: 30px;
+    font-family: playfair;
+    font-weight: bold;
+    color: purple;
+ }
+
+ .case-study-section-body-2 {
+    padding: 0 20vw;
+    font-family: playfair;
+    font-size: 15px;
+}
+
+
+
+
+/* INDEX CSS */
+
+body{
+    margin:0 auto;
+    background-color:chartreuse;
+}
+
+.Nav li{
+    list-style-type: none;
+    color: white;
+   
+    
+}
+
+
+.title {
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.title-items {
+    display: flex;
+    justify-content: center;
+}
+
+.Marg-img {
+    display: flex;
+    justify-content: center;
+}
+
+
+ 
+
+#case5 {
+    display: flex; 
+    justify-content: center;
+    
+}
+
+
+.row1 {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    width:px;
+}
+
+.row2 {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    width:px;
+} 
+
+.casestudy {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    flex-direction: column;
+
+} 
+
+h1 {
+    display: flex; 
+    justify-content: center;
+} 
+
+
+@media only screen and  (max-width: 510px) {
+    h1 {
+        color: red;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
